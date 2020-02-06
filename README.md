@@ -1,2 +1,2 @@
-# Hacker-Rank
-Programming exercises from hackerrank.com
+# Hacker-Rank Solutions
+Programming exercises from https://www.hackerrank.com
