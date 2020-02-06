@@ -20,11 +20,9 @@ public class Solution {
             for (byte bt : hash) {
                 System.out.printf("%02x", bt);
             }
-            
+
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 }
-
